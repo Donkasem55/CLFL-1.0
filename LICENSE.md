@@ -41,33 +41,20 @@ The CubedLab Free License is a copyleft license free for usage made for open-sou
 
 &nbsp;   ***1. Definitions***
 
-    "This License" refers to the first version of the CubedLab Free License.
-
- 
+    "This License" refers to the first version of the CubedLab Free License. 
 
     "CLFL" refers to the CubedLab Free License.
 
- 
-
     "The software" refers to the softwares protected by the CubedLab Free License.
-
-
 
 &nbsp;   "source code" refers to the preferred form of work for making modifications to it.
 
-
-
 &nbsp;   ***2. Basic permissions***
-
-
 
 &nbsp;   All rights granted under this License are granted for the term of copyright on the software.
 
-
-
 &nbsp;   You may run, modify, or redistribute any programs licensed under the CLFL as you wish, so long as your redistribution is also protected under the CLFL. All softwares licensed by the CLFL must have its source code open for anyone to view, modify, and redistribute as they wish, and state clearly so.
 
-
-
 &nbsp;   When you protect a work with the CLFL, you waive any legal power to forbid circumvention of technological measures to the extent such circumvention is affected by exercising rights protected under this license with respect to the protected software. You also disclaim any intention to limit operation, redistribution, or modification of the software as a means of enforcing against the work's users, your or third parties' legal rights to forbid circumvention of technological measures.
+
 
